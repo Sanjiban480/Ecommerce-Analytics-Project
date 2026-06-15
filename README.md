@@ -64,7 +64,7 @@ Ecommerce-Analytics-Project
 │   └── ecommerce_analysis.sql
 │
 ├── images
-│   └── ecommerce dashboard.png.png
+│   └── E_Commerce.png
 │
 └── README.md
 ```

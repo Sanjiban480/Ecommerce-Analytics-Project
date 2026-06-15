@@ -73,7 +73,7 @@ Ecommerce-Analytics-Project
 
 ## Dashboard Preview
 
-![Dashboard](images/ecommerce%20dashboard.png)
+![Dashboard](images/E-Commerce.png)
 
 ---
 

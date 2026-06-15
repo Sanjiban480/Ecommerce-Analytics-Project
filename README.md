@@ -176,6 +176,6 @@ This dashboard helps businesses:
 **Sanjiban Chattopadhyay**
 
 Aspiring Data Analyst | Python | SQL | Power BI
+- GitHub: [Sanjiban480](https://github.com/Sanjiban480)
+- LinkedIn: [Sanjiban Chattopadhyay](https://www.linkedin.com/in/sanjiban-chattopadhyay-809469406/)
 
-GitHub:
-https://github.com/Sanjiban480

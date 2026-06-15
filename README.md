@@ -55,7 +55,7 @@ Ecommerce-Analytics-Project
 │   └── SampleSuperstore.csv
 │
 ├── dashboard
-│   └── Ecommerce_Dashboard.pbix
+│   └── E-Commerce Sales Performance Dashboard.pbix
 │
 ├── notebooks
 │   └── ecommerce_analysis.ipynb
